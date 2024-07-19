@@ -44,8 +44,16 @@ To get started with DocQueryAI, follow these steps:
     ```
 4. Follow the steps in the notebook to query the index and interact with the chatbot.
 
-## Example Code
 
-Acknowledgements
+## Tech Components
+
+- **LLaMA Index**: For creating and querying the document index.
+- **OpenAI API**: For generating responses based on queries.
+- **Jupyter Notebook**: For interactive development and testing.
+- **Python**: The programming language used for the implementation.
+
+## Acknowledgements
+
 Thanks to the OpenAI team for their powerful API and tools.
 Special thanks to the LLaMA Index community for making document indexing and querying straightforward.
+
